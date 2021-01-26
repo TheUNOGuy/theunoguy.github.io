@@ -2,3 +2,6 @@ theme: jekyll-theme-slate
 
 title: TheUNOGuy
 description: A webpage featuring information about me and about my apps
+
+github:
+  takenotes_url: https://github.com/TheUNOGuy/TakeNotes/releases
